@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Willy",
+  "author": "mhankbarbar",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
@@ -41,7 +41,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WILLY-steven/helper.git"
+    "url": "git+https://github.com/mhankbarbar/termux-wabot.git"
   },
   "bugs": {
     "url": "https://github.com/WILLY-steven/helper/issues"
